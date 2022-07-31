@@ -2,7 +2,7 @@
   "name": "vscode-responsive-font-weights",
   "displayName": "Responsive Font Weights",
   "description": "Change font weights based on responsive font sizes.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "author": "Kevin Ghadyani",
   "publisher": "KevinGhadyani",
@@ -11,6 +11,7 @@
   "engines": {
     "vscode": "^1.69.0"
   },
+  "icon": "images/icon.png",
   "categories": [
     "Keymaps",
     "Other"
